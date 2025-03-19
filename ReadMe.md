@@ -24,8 +24,8 @@ Passionate and creative web designer specializing in visually stunning and funct
 ### 🧰 Frameworks:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23167458.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node.](https://img.shields.io/badge/node.js-%23167458.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=ff69b4)
