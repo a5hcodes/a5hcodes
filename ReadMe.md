@@ -26,7 +26,7 @@ Passionate and creative web designer specializing in visually stunning and funct
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23167458.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&abbreviated=true&color=ff69b4)
 
 ## 📊 GitHub Stats:
 
