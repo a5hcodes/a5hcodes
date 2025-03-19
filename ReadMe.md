@@ -3,7 +3,7 @@
 Passionate and creative web designer specializing in visually stunning and functional websites. I blend aesthetics with usability to deliver outstanding results. From concept to completion, I bring ideas to life with clean code and attention to detail.
 
 
-### 💻 Programming language:
+### 💻 Language:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
