@@ -28,6 +28,9 @@ I'm a web designer and developer who loves creating clean, functional, and visua
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Node.](https://img.shields.io/badge/node.js-%23167458.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23007d6b.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+
 
 
 
