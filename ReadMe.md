@@ -31,8 +31,8 @@ Passionate and creative web designer specializing in visually stunning and funct
 
 ## 📊 GitHub Stats:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=a5hcodes&theme=dracula&show_icons=true&hide_border=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=a5hcodes&theme=dracula&show_icons=true&hide_border=false" />
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5hcodes&theme=dracula&layout=compact&hide_border=true" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5hcodes&theme=dracula&layout=compact&hide_border=false" />
 
 
