@@ -1,8 +1,10 @@
 ![Coding Gif](https://i.pinimg.com/originals/b6/05/5b/b6055b3e20a9c81e90b838fff156fb33.gif)
 
-# 💫 Aishwarya Rajan:
+# Aishwarya Rajan:
 
-Passionate and creative web designer specializing in visually stunning and functional websites. I blend aesthetics with usability to deliver outstanding results. From concept to completion, I bring ideas to life with clean code and attention to detail.
+I'm a web designer and developer who loves creating clean, functional, and visually appealing websites. I focus on blending design with usability to build great user experiences. While honing my skills daily, I’m always eager to learn new things in web development. I'm also on the lookout for opportunities to grow and apply my skills in real-world projects.
+
+![](https://komarev.com/ghpvc/?username=a5hcodes&style=for-the-badge&color=ff69b4)
 
 
 ### 💻 Language:
@@ -26,9 +28,6 @@ Passionate and creative web designer specializing in visually stunning and funct
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Node.](https://img.shields.io/badge/node.js-%23167458.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-
-![](https://komarev.com/ghpvc/?username=a5hcodes&style=for-the-badge&color=ff69b4)
 
 
 
