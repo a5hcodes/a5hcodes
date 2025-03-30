@@ -1,6 +1,6 @@
 ![Coding Gif](https://i.pinimg.com/originals/b6/05/5b/b6055b3e20a9c81e90b838fff156fb33.gif)
 
-# Aishwarya Rajan:
+# 🐣 Aishwarya Rajan:
 
 I'm a web designer and developer who loves creating clean, functional, and visually appealing websites. I focus on blending design with usability to build great user experiences. While honing my skills daily, I’m always eager to learn new things in web development. I'm also on the lookout for opportunities to grow and apply my skills in real-world projects.
 
