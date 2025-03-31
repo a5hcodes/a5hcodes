@@ -31,7 +31,12 @@ I'm a web designer and developer who loves creating clean, functional, and visua
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23007d6b.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 
-
+### 📀 Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ## 📊 GitHub Stats:
