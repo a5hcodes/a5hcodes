@@ -2,7 +2,8 @@
 
 # 🐣 Aishwarya Rajan:
 
-I'm a web designer and developer who loves creating clean, functional, and visually appealing websites. I focus on blending design with usability to build great user experiences. While honing my skills daily, I’m always eager to learn new things in web development. I'm also on the lookout for opportunities to grow and apply my skills in real-world projects.
+I'm a web developer who loves creating clean, functional, and visually appealing websites. I love creating interactive and minimal user experience. While honing my skills daily, I’m always eager to learn new things in the development field build new and scalable products. 
+
 
 ![](https://komarev.com/ghpvc/?username=a5hcodes&style=for-the-badge&color=ff69b4)
 
